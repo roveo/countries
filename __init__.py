@@ -1,6 +1,10 @@
+import os
 import requests
 import pandas as pd
 import re
+
+
+module_directory, module_file = os.path.split(__file__)
 
 
 class CountryEncoder:
@@ -17,7 +21,7 @@ class CountryEncoder:
         self.stop_words = set(['of', 'the', 'and', 's'])
         self.null_value = null_value
 
-        self.associative_matrix = pd.read_table('data.tsv', sep='\t', header=0)
+        self.associative_matrix = pd.read_table(os.path.join(module_directory, 'data.tsv'), sep='\t', header=0)
 
     def rebuild_from_csv(self, file):
         ''' Rebuilds associative matrix JSON data
