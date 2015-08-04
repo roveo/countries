@@ -11,7 +11,7 @@ from country_encoder import CountryEncoder
 
 ce = CountryEncoder()  # init, load vocabularies
 
-countries = ['Great Britain', 'Russia', 'The UK', 'Myanmar', 'United Kingdom', 'Burma', 'North Korea    ', 'Sudan', 'South Sudan', 'USSR']
+countries = ['Great Britain', 'Russia', 'The UK', 'Myanmar', 'United Kingdom', 'Burma', 'North Korea', 'Sudan', 'South Sudan', 'USSR']
 
 print({c: ce.encode(c) for c in countries})
 ```
