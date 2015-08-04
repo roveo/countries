@@ -21,13 +21,7 @@ class CountryEncoder:
         self.stop_words = set(['of', 'the', 'and', 's'])
         self.null_value = null_value
 
-        self.associative_matrix = pd.read_table(os.path.join(module_directory, 'data.tsv'), sep='\t', header=0)
-
-    def rebuild_from_csv(self, file):
-        ''' Rebuilds associative matrix JSON data
-            from CSV source.
-            Table format must be: name,full_name,alternative_name,abbreviation
-        '''
+        self.associative_matrix = pd.read_table(os.path.join(module_directory, 'data.tsv'), sep='\t', header=0).set_index('code')
 
     def tokenize(self, string):
         ''' Convert a string, human-readable country name,

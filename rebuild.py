@@ -27,6 +27,7 @@ def rebuild(filename):
     bags = bags.apply(tokenize).to_dict()  # full set of all possible tokens for each country
 
     associative_matrix = pd.DataFrame()
+
     # combine all of the codes into a single matrix
     for code in bags:
         associative_matrix = pd.concat([associative_matrix, pd.DataFrame(index=(code, ), columns=bags[code]).fillna(1)])
@@ -40,10 +41,12 @@ def rebuild(filename):
     for code in names:
         associative_matrix.ix[code, list(names[code])] += 1 / len(names[code])
 
+    associative_matrix.index.name = 'code'
+
     return associative_matrix
 
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         filename = sys.argv[1]
-        rebuild(filename).to_csv('data.tsv', sep='\t', index=False, header=True)
+        rebuild(filename).reset_index().to_csv('data.tsv', sep='\t', index=False, header=True)
