@@ -49,4 +49,4 @@ def rebuild(filename):
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         filename = sys.argv[1]
-        rebuild(filename).reset_index().to_csv('data.tsv', sep='\t', index=False, header=True)
+        rebuild(filename).reset_index().to_csv('data.tsv', sep='\t', index=False)
