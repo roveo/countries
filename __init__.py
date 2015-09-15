@@ -18,7 +18,7 @@ class CountryEncoder:
             construct the vocabulary.
         '''
         self.stop_chars = re.compile(r'[^\w ]', re.UNICODE)
-        self.stop_words = set(['of', 'the', 'and', 's'])
+        self.stop_words = set(['of', 'the', 'and', 's', 'd', 'co'])
         self.null_value = null_value
 
         self.associative_matrix = pd.read_table(os.path.join(module_directory, 'data.tsv'), sep='\t', header=0).set_index('code')
@@ -39,7 +39,7 @@ class CountryEncoder:
 
             Returns: str
         '''
-        country_bag = self.tokenize(string) & set(self.associative_matrix.columns)
+        country_bag = self.tokenize(string) & set(self.associative_matrix.columns[1:])
         if len(country_bag) > 0:
             return self.associative_matrix[list(country_bag)].sum(axis=1).idxmax()
         else:
