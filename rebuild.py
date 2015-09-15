@@ -10,7 +10,7 @@ def tokenize(string):
         Returns: set
     '''
     stop_chars = re.compile(r'[^\w ]', re.UNICODE)
-    stop_words = set(['of', 'the', 'and', 's'])
+    stop_words = set(['of', 'the', 'and', 's', 'd', 'co'])
     string_lower = string.lower()
     bag = stop_chars.sub(' ', string_lower).split()
     return set(bag) - stop_words
