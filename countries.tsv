@@ -1,6 +1,6 @@
 code	name	full_name	abbreviation	alternative_name	capital
 AFG	Afghanistan	Islamic Republic of Afghanistan			Kabul
-ALA	Åland Islands	Åland Islands		Aland Islands	
+ALA	?land Islands	?land Islands		Aland Islands	
 ALB	Albania	Republic of Albania			Tirana
 DZA	Algeria	People's Democratic Republic of Algeria			Algiers
 ASM	American Samoa	American Samoa			
@@ -28,7 +28,7 @@ BOL	Bolivia	Plurinational State of Bolivia			La Paz
 BES	Bonaire, Sint Eustatius and Saba				
 BIH	Bosnia and Herzegovina	Bosnia and Herzegovina			Sarajevo
 BWA	Botswana	Republic of Botswana			Gaborone
-BRA	Brazil	Federative Republic of Brazil			Brasília
+BRA	Brazil	Federative Republic of Brazil			Bras?lia
 VGB	British Virgin Islands				
 BRN	Brunei	Brunei Darussalam			Bandar Seri Begawan
 BGR	Bulgaria	Republic of Bulgaria			Sofia
@@ -36,7 +36,7 @@ BFA	Burkina Faso	Burkina Faso			Ouagadougou
 BDI	Burundi	Republic of Burundi			Bujumbura
 CPV	Cabo Verde	Republic of Cabo Verde			Praia
 KHM	Cambodia	Kingdom of Cambodia			Phnom Penh
-CMR	Cameroon	Republic of Cameroon			Yaoundé
+CMR	Cameroon	Republic of Cameroon			Yaound?
 CAN	Canada	Canada			Ottawa
 CYM	Cayman Islands				
 CAF	Central African Republic	Central African Republic			Bangui
@@ -45,15 +45,15 @@ CHL	Chile	Republic of Chile			Santiago
 CHN	China	People's Republic of China			Beijing
 HKG	Hong Kong	Hong Kong Special Administrative Region		China, Hong Kong	
 MAC	Macao	Macao Special Administrative Region		China, Macao	
-COL	Colombia	Republic of Colombia			Bogotá
+COL	Colombia	Republic of Colombia			Bogot?
 COM	Comoros	Union of the Comoros			Moroni
 COG	Congo	Republic of the Congo		West Congo, Congo-Brazzaville	Brazzaville
 COK	Cook Islands				
-CRI	Costa Rica	Republic of Costa Rica			San José
-CIV	Côte d'Ivoire	Republic of Côte d'Ivoire		Cote d'Ivoire, Ivory Coast	Yamoussoukro
+CRI	Costa Rica	Republic of Costa Rica			San Jos?
+CIV	C?te d'Ivoire	Republic of C?te d'Ivoire		Cote d'Ivoire, Ivory Coast	Yamoussoukro
 HRV	Croatia	Republic of Croatia			Zagreb
 CUB	Cuba	Republic of Cuba			Havana
-CUW	Curaçao			Curacao	
+CUW	Cura?ao			Curacao	
 CYP	Cyprus	Republic of Cyprus			Nicosia
 CZE	Czech Republic	Czech Republic			Prague
 PRK	North Korea	Democratic People's Republic of Korea			Pyongyang
@@ -96,7 +96,7 @@ HTI	Haiti	Republic of Haiti			Port-au-Prince
 VAT	Holy See	Holy See		Vatican	Vatican City
 HND	Honduras	Republic of Honduras			Tegucigalpa
 HUN	Hungary	Hungary			Budapest
-ISL	Iceland	Republic of Iceland			Reykjavík
+ISL	Iceland	Republic of Iceland			Reykjav?k
 IND	India	Republic of India			New Delhi
 IDN	Indonesia	Republic of Indonesia			Jakarta
 IRN	Iran	Islamic Republic of Iran			Tehran
@@ -161,7 +161,7 @@ PAK	Pakistan	Islamic Republic of Pakistan			Islamabad
 PLW	Palau	Republic of Palau			Melekeok
 PAN	Panama	Republic of Panama			Panama
 PNG	Papua New Guinea	Independent State of Papua New Guinea			Port Moresby
-PRY	Paraguay	Republic of Paraguay			Asunción
+PRY	Paraguay	Republic of Paraguay			Asunci?n
 PER	Peru	Republic of Peru			Lima
 PHL	Philippines	Republic of the Philippines			Manila
 PCN	Pitcairn				
@@ -171,11 +171,11 @@ PRI	Puerto Rico
 QAT	Qatar	State of Qatar			Doha
 KOR	South Korea	Republic of Korea			Seoul
 MDA	Moldova	Republic of Kosovo			Pristina
-REU	Réunion			Reunion	
+REU	R?union			Reunion	
 ROU	Romania	Romania			Bucharest
 RUS	Russia	Russian Federation	USSR	Soviet Union	Moscow
 RWA	Rwanda	Republic of Rwanda			Kigali
-BLM	Saint Barthélemy			Saint Barthelemy	
+BLM	Saint Barth?lemy			Saint Barthelemy	
 SHN	Saint Helena				
 KNA	Saint Kitts and Nevis	Federation of Saint Kitts and Nevis			Basseterre
 LCA	Saint Lucia	Saint Lucia			Castries
@@ -184,7 +184,7 @@ SPM	Saint Pierre and Miquelon
 VCT	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines			Kingstown
 WSM	Samoa	Independent State of Samoa			Apia
 SMR	San Marino	Republic of San Marino			San Marino
-STP	Sao Tome and Principe	Democratic Republic of Sao Tome and Principe			São Tomé
+STP	Sao Tome and Principe	Democratic Republic of Sao Tome and Principe			S?o Tom?
 SAU	Saudi Arabia	Kingdom of Saudi Arabia			Riyadh
 SEN	Senegal	Republic of Senegal			Dakar
 SRB	Serbia	Republic of Serbia			Belgrade
@@ -212,7 +212,7 @@ TJK	Tajikistan	Republic of Tajikistan			Dushanbe
 THA	Thailand	Kingdom of Thailand			Bangkok
 MKD	Macedonia	Republic of Macedonia		The Former Yugoslav Republic of Macedonia	Skopje
 TLS	Timor-Leste	Democratic Republic of Timor-Leste			Dili
-TGO	Togo	Togolese Republic			Lomé
+TGO	Togo	Togolese Republic			Lom?
 TKL	Tokelau				
 TON	Tonga	Kingdom of Tonga			Nuku'alofa
 TTO	Trinidad and Tobago	Republic of Trinidad and Tobago			Port of Spain
@@ -241,3 +241,4 @@ ZWE	Zimbabwe	Republic of Zimbabwe			Harare
 TWA	Taiwan	Republic of China			Taipei
 YUG	Yugoslavia				
 CSK	Czechoslovakia				
+XK	Kosovo				
