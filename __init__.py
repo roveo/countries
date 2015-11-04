@@ -39,6 +39,8 @@ class CountryEncoder:
 
             Returns: str
         '''
+        if not string:
+            return 'N/A'
         country_bag = self.tokenize(string) & set(self.associative_matrix.columns[1:])
         if len(country_bag) > 0:
             return self.associative_matrix[list(country_bag)].sum(axis=1).idxmax()
