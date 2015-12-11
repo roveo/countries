@@ -21,7 +21,7 @@ class CountryEncoder:
         self.stop_words = set(['of', 'the', 'and', 's', 'd', 'co'])
         self.null_value = null_value
 
-        self.associative_matrix = pd.read_table(os.path.join(module_directory, 'data.tsv'), sep='\t', header=0).set_index('code')
+        self.associative_matrix = pd.read_table(os.path.join(module_directory, 'data.tsv', encoding='UTF-8'), sep='\t', header=0).set_index('code')
 
     def tokenize(self, string):
         ''' Convert a string, human-readable country name,
