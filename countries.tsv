@@ -1,16 +1,16 @@
 code	name	full_name	abbreviation	alternative_name	capital
 AFG	Afghanistan	Islamic Republic of Afghanistan			Kabul
-ALA	?land Islands	?land Islands		Aland Islands	
+ALA	Åland Islands	Åland Islands		Aland Islands
 ALB	Albania	Republic of Albania			Tirana
 DZA	Algeria	People's Democratic Republic of Algeria			Algiers
-ASM	American Samoa	American Samoa			
+ASM	American Samoa	American Samoa
 AND	Andorra	Principality of Andorra			Andorra la Vella
 AGO	Angola	Republic of Angola			Luanda
-AIA	Anguilla	Anguilla			
-ATG	Antigua and Barbuda	Antigua and Barbuda			Saint John's
+AIA	Anguilla	Anguilla
+ATG	Antigua and Barbuda	Antigua and Barbuda		Saint John's
 ARG	Argentina	Argentine Republic			Buenos Aires
 ARM	Armenia	Republic of Armenia			Yerevan
-ABW	Aruba				
+ABW	Aruba
 AUS	Australia	Commonwealth of Australia			Canberra
 AUT	Austria	Republic of Austria			Vienna
 AZE	Azerbaijan	Republic of Azerbaijan			Baku
@@ -22,42 +22,42 @@ BLR	Belarus	Republic of Belarus			Minsk
 BEL	Belgium	Kingdom of Belgium			Brussels
 BLZ	Belize	Belize			Belmopan
 BEN	Benin	Republic of Benin			Porto-Novo
-BMU	Bermuda				
+BMU	Bermuda
 BTN	Bhutan	Kingdom of Bhutan			Thimphu
 BOL	Bolivia	Plurinational State of Bolivia			La Paz
-BES	Bonaire, Sint Eustatius and Saba				
+BES	Bonaire, Sint Eustatius and Saba
 BIH	Bosnia and Herzegovina	Bosnia and Herzegovina			Sarajevo
 BWA	Botswana	Republic of Botswana			Gaborone
-BRA	Brazil	Federative Republic of Brazil			Bras?lia
-VGB	British Virgin Islands				
+BRA	Brazil	Federative Republic of Brazil			Brasília
+VGB	British Virgin Islands
 BRN	Brunei	Brunei Darussalam			Bandar Seri Begawan
 BGR	Bulgaria	Republic of Bulgaria			Sofia
 BFA	Burkina Faso	Burkina Faso			Ouagadougou
 BDI	Burundi	Republic of Burundi			Bujumbura
-CPV	Cabo Verde	Republic of Cabo Verde			Praia
+CPV	Cabo Verde	Republic of Cabo Verde		Cape Verde	Praia
 KHM	Cambodia	Kingdom of Cambodia			Phnom Penh
-CMR	Cameroon	Republic of Cameroon			Yaound?
+CMR	Cameroon	Republic of Cameroon			Yaoundé
 CAN	Canada	Canada			Ottawa
-CYM	Cayman Islands				
+CYM	Cayman Islands
 CAF	Central African Republic	Central African Republic			Bangui
 TCD	Chad	Republic of Chad			N'Djamena
 CHL	Chile	Republic of Chile			Santiago
 CHN	China	People's Republic of China			Beijing
-HKG	Hong Kong	Hong Kong Special Administrative Region		China, Hong Kong	
-MAC	Macao	Macao Special Administrative Region		China, Macao	
-COL	Colombia	Republic of Colombia			Bogot?
+HKG	Hong Kong	Hong Kong Special Administrative Region		China, Hong Kong
+MAC	Macao	Macao Special Administrative Region		China, Macao
+COL	Colombia	Republic of Colombia			Bogotá
 COM	Comoros	Union of the Comoros			Moroni
 COG	Congo	Republic of the Congo		West Congo, Congo-Brazzaville	Brazzaville
-COK	Cook Islands				
-CRI	Costa Rica	Republic of Costa Rica			San Jos?
-CIV	C?te d'Ivoire	Republic of C?te d'Ivoire		Cote d'Ivoire, Ivory Coast	Yamoussoukro
+COK	Cook Islands
+CRI	Costa Rica	Republic of Costa Rica			San José
+CIV	Côte d'Ivoire	Côte d'Ivoire		Cote d'Ivoire, Ivory Coast	Yamoussoukro
 HRV	Croatia	Republic of Croatia			Zagreb
 CUB	Cuba	Republic of Cuba			Havana
-CUW	Curaçao			Curacao	
+CUW	Curaçao			Curacao, Kòrsou, Korsou
 CYP	Cyprus	Republic of Cyprus			Nicosia
 CZE	Czech Republic	Czech Republic			Prague
-PRK	North Korea	Democratic People's Republic of Korea			Pyongyang
-COD	Democratic Republic of the Congo	Democratic Republic of the Congo	DRC, DROC, RDC 	East Congo, Congo-Kinshasa	Kinshasa
+PRK	North Korea	Democratic People's Republic of Korea	Rep, Dem		Pyongyang
+COD	Democratic Republic of the Congo	Democratic Republic of the Congo	DRC, DROC, RDC, Dem, Rep	East Congo, Congo-Kinshasa	Kinshasa
 DNK	Denmark	Kingdom of Denmark			Copenhagen
 DJI	Djibouti	Republic of Djibouti			Djibouti
 DMA	Dominica	Commonwealth of Dominica			Roseau
@@ -69,26 +69,26 @@ GNQ	Equatorial Guinea	Republic of Equatorial Guinea			Malabo
 ERI	Eritrea	State of Eritrea			Asmara
 EST	Estonia	Republic of Estonia			Tallinn
 ETH	Ethiopia	Federal Democratic Republic of Ethiopia			Addis Ababa
-FRO	Faeroe Islands				
-FLK	Falkland Islands	Falkland Islands		Malvinas	
+FRO	Faeroe Islands
+FLK	Falkland Islands	Falkland Islands		Malvinas
 FJI	Fiji	Republic of Fiji			Suva
 FIN	Finland	Republic of Finland			Helsinki
 FRA	France	French Republic			Paris
-GUF	French Guiana				
-PYF	French Polynesia				
+GUF	French Guiana
+PYF	French Polynesia
 GAB	Gabon	Gabonese Republic			Libreville
 GMB	Gambia	Republic of The Gambia			Banjul
 GEO	Georgia	Georgia			Tbilisi
 DEU	Germany	Federal Republic of Germany		Federal German Republic	Berlin
 GHA	Ghana	Republic of Ghana			Accra
-GIB	Gibraltar				
+GIB	Gibraltar
 GRC	Greece	Hellenic Republic			Athens
-GRL	Greenland				
+GRL	Greenland
 GRD	Grenada	Grenada			Saint George's
-GLP	Guadeloupe				
-GUM	Guam				
+GLP	Guadeloupe
+GUM	Guam
 GTM	Guatemala	Republic of Guatemala			Guatemala
-GGY	Guernsey				
+GGY	Guernsey
 GIN	Guinea	Republic of Guinea			Conakry
 GNB	Guinea-Bissau	Republic of Guinea-Bissau			Bissau
 GUY	Guyana	Co-operative Republic of Guyana			Georgetown
@@ -96,18 +96,18 @@ HTI	Haiti	Republic of Haiti			Port-au-Prince
 VAT	Holy See	Holy See		Vatican	Vatican City
 HND	Honduras	Republic of Honduras			Tegucigalpa
 HUN	Hungary	Hungary			Budapest
-ISL	Iceland	Republic of Iceland			Reykjav?k
+ISL	Iceland	Republic of Iceland			Reykjavík
 IND	India	Republic of India			New Delhi
 IDN	Indonesia	Republic of Indonesia			Jakarta
 IRN	Iran	Islamic Republic of Iran			Tehran
 IRQ	Iraq	Republic of Iraq			Baghdad
 IRL	Ireland	Ireland			Dublin
-IMN	Isle of Man				
+IMN	Isle of Man
 ISR	Israel	State of Israel			Jerusalem
 ITA	Italy	Italian Republic			Rome
 JAM	Jamaica	Jamaica			Kingston
 JPN	Japan	Japan			Tokyo
-JEY	Jersey				
+JEY	Jersey
 JOR	Jordan	Hashemite Kingdom of Jordan			Amman
 KAZ	Kazakhstan	Republic of Kazakhstan			Astana
 KEN	Kenya	Republic of Kenya			Nairobi
@@ -130,16 +130,16 @@ MDV	Maldives	Republic of Maldives			Male
 MLI	Mali	Republic of Mali			Bamako
 MLT	Malta	Republic of Malta			Valletta
 MHL	Marshall Islands	Republic of the Marshall Islands			Majuro
-MTQ	Martinique				
+MTQ	Martinique
 MRT	Mauritania	Islamic Republic of Mauritania			Nouakchott
 MUS	Mauritius	Republic of Mauritius			Port Louis
-MYT	Mayotte				
+MYT	Mayotte
 MEX	Mexico	United Mexican States			Mexico
 FSM	Micronesia	Federated States of Micronesia			Palikir
 MCO	Monaco	Principality of Monaco			Monaco
 MNG	Mongolia	Mongolia			Ulaanbaatar
 MNE	Montenegro	Montenegro			Podgorica
-MSR	Montserrat				
+MSR	Montserrat
 MAR	Morocco	Kingdom of Morocco			Rabat
 MOZ	Mozambique	Republic of Mozambique			Maputo
 MMR	Myanmar	Republic of the Union of Myanmar		Burma	Rangoon
@@ -147,51 +147,51 @@ NAM	Namibia	Republic of Namibia			Windhoek
 NRU	Nauru	Republic of Nauru			Yaren District
 NPL	Nepal	Federal Democratic Republic of Nepal			Kathmandu
 NLD	Netherlands	Kingdom of the Netherlands			Amsterdam
-NCL	New Caledonia				
+NCL	New Caledonia
 NZL	New Zealand	New Zealand			Wellington
 NIC	Nicaragua	Republic of Nicaragua			Managua
 NER	Niger	Republic of Niger			Niamey
 NGA	Nigeria	Federal Republic of Nigeria			Abuja
-NIU	Niue				
-NFK	Norfolk Island				
-MNP	Northern Mariana Islands				
+NIU	Niue
+NFK	Norfolk Island
+MNP	Northern Mariana Islands
 NOR	Norway	Kingdom of Norway			Oslo
 OMN	Oman	Sultanate of Oman			Muscat
 PAK	Pakistan	Islamic Republic of Pakistan			Islamabad
 PLW	Palau	Republic of Palau			Melekeok
 PAN	Panama	Republic of Panama			Panama
 PNG	Papua New Guinea	Independent State of Papua New Guinea			Port Moresby
-PRY	Paraguay	Republic of Paraguay			Asunci?n
+PRY	Paraguay	Republic of Paraguay			Asunción
 PER	Peru	Republic of Peru			Lima
 PHL	Philippines	Republic of the Philippines			Manila
-PCN	Pitcairn				
+PCN	Pitcairn
 POL	Poland	Republic of Poland			Warsaw
 PRT	Portugal	Portuguese Republic			Lisbon
-PRI	Puerto Rico				
+PRI	Puerto Rico
 QAT	Qatar	State of Qatar			Doha
-KOR	South Korea	Republic of Korea			Seoul
+KOR	South Korea	Republic of Korea	Rep		Seoul
 MDA	Moldova	Republic of Kosovo			Pristina
-REU	R?union			Reunion	
+REU	Réunion			Reunion
 ROU	Romania	Romania			Bucharest
 RUS	Russia	Russian Federation	USSR	Soviet Union	Moscow
 RWA	Rwanda	Republic of Rwanda			Kigali
-BLM	Saint Barth?lemy			Saint Barthelemy	
-SHN	Saint Helena				
+BLM	Saint-Barthélemy			Saint Barthelemy
+SHN	Saint Helena
 KNA	Saint Kitts and Nevis	Federation of Saint Kitts and Nevis			Basseterre
 LCA	Saint Lucia	Saint Lucia			Castries
-MAF	Saint Martin (French part)				
-SPM	Saint Pierre and Miquelon				
+MAF	Saint Martin (French part)
+SPM	Saint Pierre and Miquelon
 VCT	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines			Kingstown
 WSM	Samoa	Independent State of Samoa			Apia
 SMR	San Marino	Republic of San Marino			San Marino
-STP	Sao Tome and Principe	Democratic Republic of Sao Tome and Principe			S?o Tom?
+STP	Sao Tome and Principe	Democratic Republic of Sao Tome and Principe			São Tomé
 SAU	Saudi Arabia	Kingdom of Saudi Arabia			Riyadh
 SEN	Senegal	Republic of Senegal			Dakar
 SRB	Serbia	Republic of Serbia			Belgrade
 SYC	Seychelles	Republic of Seychelles			Victoria
 SLE	Sierra Leone	Republic of Sierra Leone			Freetown
 SGP	Singapore	Republic of Singapore			Singapore
-SXM	Sint Maarten (Dutch part)				
+SXM	Sint Maarten (Dutch part)
 SVK	Slovakia	Slovak Republic			Bratislava
 SVN	Slovenia	Republic of Slovenia			Ljubljana
 SLB	Solomon Islands	Solomon Islands			Honiara
@@ -200,10 +200,10 @@ ZAF	South Africa	Republic of South Africa			Pretoria
 SSD	South Sudan	Republic of South Sudan			Juba
 ESP	Spain	Kingdom of Spain			Madrid
 LKA	Sri Lanka	Democratic Socialist Republic of Sri Lanka			Colombo
-PSE	State of Palestine, Occupied Palestinian Territories				
+PSE	State of Palestine
 SDN	Sudan	Republic of the Sudan			Khartoum
 SUR	Suriname	Republic of Suriname			Paramaribo
-SJM	Svalbard	Svalbard and Jan Mayen Islands			
+SJM	Svalbard	Svalbard and Jan Mayen Islands
 SWZ	Swaziland	Kingdom of Swaziland			Mbabane
 SWE	Sweden	Kingdom of Sweden			Stockholm
 CHE	Switzerland	Swiss Confederation			Bern
@@ -212,14 +212,14 @@ TJK	Tajikistan	Republic of Tajikistan			Dushanbe
 THA	Thailand	Kingdom of Thailand			Bangkok
 MKD	Macedonia	Republic of Macedonia		The Former Yugoslav Republic of Macedonia	Skopje
 TLS	Timor-Leste	Democratic Republic of Timor-Leste			Dili
-TGO	Togo	Togolese Republic			Lom?
-TKL	Tokelau				
+TGO	Togo	Togolese Republic			Lomé
+TKL	Tokelau
 TON	Tonga	Kingdom of Tonga			Nuku'alofa
 TTO	Trinidad and Tobago	Republic of Trinidad and Tobago			Port of Spain
 TUN	Tunisia	Republic of Tunisia			Tunis
 TUR	Turkey	Republic of Turkey			Ankara
 TKM	Turkmenistan	Turkmenistan			Ashgabat
-TCA	Turks and Caicos Islands				
+TCA	Turks and Caicos Islands
 TUV	Tuvalu	Tuvalu			Funafuti
 UGA	Uganda	Republic of Uganda			Kampala
 UKR	Ukraine	Ukraine			Kyiv
@@ -227,14 +227,14 @@ ARE	Arab Emirates	United Arab Emirates	UAE		Abu Dhabi
 GBR	United Kingdom	United Kingdom of Great Britain and Northern Ireland	UK		London
 TZA	Tanzania	United Republic of Tanzania			Dar es Salaam
 USA	United States	United States of America	USA		Washington, DC
-VIR	Virgin Islands	United States Virgin Islands			
+VIR	Virgin Islands	United States Virgin Islands
 URY	Uruguay	Oriental Republic of Uruguay			Montevideo
 UZB	Uzbekistan	Republic of Uzbekistan			Tashkent
 VUT	Vanuatu	Republic of Vanuatu			Port-Vila
 VEN	Venezuela	Bolivarian Republic of Venezuela			Caracas
 VNM	Vietnam	Socialist Republic of Vietnam		Viet Nam	Hanoi
-WLF	Wallis and Futuna Islands				
-ESH	Western Sahara				
+WLF	Wallis and Futuna Islands
+ESH	Western Sahara
 YEM	Yemen	Republic of Yemen			Sanaa
 ZMB	Zambia	Republic of Zambia			Lusaka
 ZWE	Zimbabwe	Republic of Zimbabwe			Harare

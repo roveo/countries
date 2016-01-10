@@ -17,7 +17,7 @@ def tokenize(string):
 
 
 def rebuild(filename):
-    vocabulary = pd.read_table(filename, header=0, sep='\t').set_index('code')
+    vocabulary = pd.read_table(filename, header=0, sep='\t', encoding='UTF-8').set_index('code')
 
     # bag as in 'bag of words'
     bags = vocabulary['name'].fillna('')
@@ -49,4 +49,4 @@ def rebuild(filename):
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         filename = sys.argv[1]
-        rebuild(filename).reset_index().to_csv('data.tsv', sep='\t', index=False)
+        rebuild(filename).reset_index().to_csv('data.tsv', sep='\t', index=False, encoding='UTF-8')
